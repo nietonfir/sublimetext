@@ -1,0 +1,41 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "insert nums",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "insert nums"
+			},
+			"key": "3bb83fb36057e86c4872885fd3e6915b",
+			"label": "insert nums"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1"
+			},
+			"key": "75c124fae7a8b8b89183d4de196613b3",
+			"label": "1 1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "1 1"
+		},
+		"command": "text_pastry_step",
+		"text": "1 1"
+	}
+}
