@@ -10,6 +10,8 @@
 	"font_size": 12.0,
 	"ignored_packages":
 	[
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"Vintage"
 	],
 	"indent_guide_options":
